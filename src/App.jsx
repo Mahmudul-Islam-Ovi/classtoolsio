@@ -1,12 +1,7 @@
 import "./App.css";
-import router from "./Router/Router";
 
 function App() {
-  return (
-    <>
-      <RouterProvider router={router} />
-    </>
-  );
+  return <>Hello</>;
 }
 
 export default App;
